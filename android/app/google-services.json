@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611579824277",
+    "project_id": "breakapp-6e6e3",
+    "storage_bucket": "breakapp-6e6e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611579824277:android:bba8e10edfe129bebbf39c",
+        "android_client_info": {
+          "package_name": "com.breakapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkkJ4aqMNER0H8YK-03xVJT2zohp94AVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
